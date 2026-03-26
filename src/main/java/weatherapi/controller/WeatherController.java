@@ -25,5 +25,4 @@ public class WeatherController {
         weatherApiService.getWeeklyWeather(city);
         return null;
     }
-
 }
